@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+echo "-- setting lua environment"
+alias luarocks_install="luarocks install --tree lua_modules "
