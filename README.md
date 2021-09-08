@@ -8,9 +8,9 @@ A [nix-shell](https://nixos.org/manual/nix/stable/#description-13) template to s
 
 Built gathering inspiration from several [sources](#resources), it makes available:
 
-- `unstable.lua5_3`
-- `unstable.lua53Packages.luarocks`
-- `unstable.`[sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) ([LSP](https://microsoft.github.io/language-server-protocol/))
+- `unstable.`[lua5_3](https://www.lua.org/)
+- `unstable.`[lua53Packages.luarocks](https://luarocks.org/)
+- `unstable.`[sumneko-lua-language-server](https://github.com/sumneko/lua-language-server) ([LSP](https://microsoft.github.io/language-server-protocol/))
 
 ## Resources
 
